@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UtubePhone</string>
+    <string name="phone_number">Phone number</string>
+    <string name="code">Code</string>
+    <string name="verify_code">Verify code</string>
+    <string name="name">Name</string>
+</resources>

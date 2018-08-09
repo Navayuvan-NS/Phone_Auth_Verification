@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "851489153240",
+    "firebase_url": "https://phonefire-f6a06.firebaseio.com",
+    "project_id": "phonefire-f6a06",
+    "storage_bucket": "phonefire-f6a06.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851489153240:android:959eeebb83ddff49",
+        "android_client_info": {
+          "package_name": "com.example.ns.utubephone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "851489153240-mm3rearj5hmctvbe0r41h3uje12hgqg4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ns.utubephone",
+            "certificate_hash": "75e210b3e4d2313a154785e6062d98beca29db43"
+          }
+        },
+        {
+          "client_id": "851489153240-qitv623j5m14qbrhd2ta96vhjami9ja1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoVu5mHKo_vuC_6dZ9ePkDXAZqcnTOzBE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "851489153240-qitv623j5m14qbrhd2ta96vhjami9ja1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
